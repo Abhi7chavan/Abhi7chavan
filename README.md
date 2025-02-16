@@ -1,7 +1,5 @@
 # Hi, I'm Abhishek! 👋  
 
-Ein **Softwareentwickler** mit Leidenschaft für **Energie** 🌍 und **Gaming** 🎮 aus Indien.  
-
 ## About Me  
 
 - 🚀 **Software Engineer** with a passion for creating efficient, scalable, and impactful solutions.  
