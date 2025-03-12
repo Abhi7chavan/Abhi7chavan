@@ -15,7 +15,7 @@
   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 - Domains of Interest:  
   - **Energy** 🌍: Empowering a sustainable future through technology.  
-  - **Gaming** 🎮: Crafting immersive and engaging virtual experiences. 
+  - **Gaming** 🎮:
 
 ## Contact Me  
 
