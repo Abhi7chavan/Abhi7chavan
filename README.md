@@ -2,7 +2,7 @@
 
 ## About Me  
 
-- 🚀 **Software Engineer** with a passion for creating efficient, scalable, and impactful solutions.  
+- 🚀 **Software Engineer** with a passion for creating efficient, scalable, and impactful products.  
 - 🌐 I specialize in
   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png"></code>
